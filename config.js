@@ -17,10 +17,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283174508962','6287885482936']
+global.owner = ['6283174508962','2831774508962']
 global.web = 'https://youtube.com/channel/UCSitKGx6JsdfY0hJM2VAInQ'
-global.bot = 'Caung-Md'
-global.premium = ['6283174508962','6287885482936']
+global.bot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
+global.premium = ['6283174508962','283174508962']
 global.packname = '‎‎‎‎'
 global.author = '‎'
 global.sessionName = 'session'
